@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Make Search and Filter Boxes for Angular"
-date:   2016-06-27 15:40:15 -0400
+date:   2016-07-04 15:40:15 -0400
 categories: explanations
 ---
 
